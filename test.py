@@ -6,6 +6,7 @@ class MainClass:
     def main_method(self):
         # Main method code goes here
         print("Hello from the main method!")
+        print("show result")
 
 # Entry point of the program
 if __name__ == "__main__":
